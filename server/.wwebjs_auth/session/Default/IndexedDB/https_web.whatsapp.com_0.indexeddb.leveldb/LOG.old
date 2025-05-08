@@ -1,0 +1,27 @@
+2025/05/02-23:37:54.696 5918 Reusing MANIFEST D:\Coding\project web\marketAI\server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/02-23:37:54.696 5918 Recovering log #579
+2025/05/02-23:37:54.889 5918 Reusing old log D:\Coding\project web\marketAI\server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000579.log 
+2025/05/02-23:37:56.634 5b28 Level-0 table #592: started
+2025/05/02-23:37:56.654 5b28 Level-0 table #592: 808109 bytes OK
+2025/05/02-23:37:56.656 5b28 Delete type=0 #579
+2025/05/02-23:37:56.656 5b28 Manual compaction at level-0 from '\x00u\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00v\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/02-23:37:58.649 106c Compacting 1@1 + 8@2 files
+2025/05/02-23:37:58.726 106c Generated table #593@1: 35422 keys, 2206578 bytes
+2025/05/02-23:37:58.841 106c Generated table #594@1: 55247 keys, 2216562 bytes
+2025/05/02-23:37:58.935 106c Generated table #595@1: 52299 keys, 2221622 bytes
+2025/05/02-23:37:58.956 106c Generated table #596@1: 3275 keys, 2150165 bytes
+2025/05/02-23:37:59.013 106c Generated table #597@1: 15196 keys, 2200428 bytes
+2025/05/02-23:37:59.095 106c Generated table #598@1: 34461 keys, 2210070 bytes
+2025/05/02-23:37:59.174 106c Generated table #599@1: 51175 keys, 2188183 bytes
+2025/05/02-23:37:59.295 106c Generated table #600@1: 85208 keys, 1977231 bytes
+2025/05/02-23:37:59.295 106c Compacted 1@1 + 8@2 files => 17370839 bytes
+2025/05/02-23:37:59.297 106c compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/02-23:37:59.297 106c Delete type=2 #582
+2025/05/02-23:37:59.297 106c Delete type=2 #583
+2025/05/02-23:37:59.297 106c Delete type=2 #584
+2025/05/02-23:37:59.297 106c Delete type=2 #585
+2025/05/02-23:37:59.297 106c Delete type=2 #586
+2025/05/02-23:37:59.297 106c Delete type=2 #587
+2025/05/02-23:37:59.297 106c Delete type=2 #588
+2025/05/02-23:37:59.297 106c Delete type=2 #589
+2025/05/02-23:37:59.297 106c Delete type=2 #592

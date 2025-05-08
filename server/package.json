@@ -1,0 +1,21 @@
+{
+  "name": "umkboost-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^4.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "twilio": "^5.5.2",
+    "whatsapp-web.js": "^1.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
